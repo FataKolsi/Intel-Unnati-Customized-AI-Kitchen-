@@ -1,0 +1,10 @@
+path: C:\Users\sid02\OneDrive\Desktop\Detection
+train: images
+val: images
+names:
+  0: tomato
+  1: carrot
+  2: capsicum
+  3: potato
+  4: brinjal
+  5: onion
